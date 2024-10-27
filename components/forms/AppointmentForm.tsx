@@ -133,9 +133,9 @@ export const AppointmentForm = ({
       <form onSubmit={form.handleSubmit(onSubmit)} className="flex-1 space-y-6">
         {type === "create" && (
           <section className="mb-12 space-y-4">
-            <h1 className="header">New Appointment</h1>
+            <h1 className="header">New Appointment Request</h1>
             <p className="text-dark-700">
-              Request a new appointment in 10 seconds.
+              Request a new appointment.🗒️
             </p>
           </section>
         )}
