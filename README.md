@@ -1,4 +1,5 @@
-**CarePulse-Carepoint**
+CarePulse-CarePoint
+----------------
 
 CarePulse-Carepoint is a modern web application built with Next.js for managing and streamlining healthcare workflows. It integrates robust form validation, user interaction features, and a customizable theme, offering an optimized experience for healthcare providers and users.
 
