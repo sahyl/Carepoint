@@ -78,7 +78,7 @@ NEXT\_PUBLIC\_API\_URL=http://localhost:3000 \`
 ### **4\. Run the Development Server**
   bashCopy codenpm run dev   
 
-Visit the application at carepoint-carepulse.vercel.app/ .
+Visit the application at https://carepoint-carepulse.vercel.app/ .
 
 **Scripts**
 -----------
